@@ -10,3 +10,15 @@ This repository hosts a Rust-based API designed for efficient image processing a
 - Follow the instructions to build and run the project locally.
 # License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+# Example
+
+## Before:
+
+![before](Images/Slayer.jpg)
+
+## After:
+
+![after](Images/Untitled.jpg)
+
+**Note**: The after is a screenshot taken in textEdit (Mac)
